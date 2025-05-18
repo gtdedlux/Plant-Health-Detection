@@ -1,4 +1,4 @@
-#Predicting Plant Health Using Machine Learning
+# Predicting Plant Health Using Machine Learning
 
 ## Overview  
 This application predicts the health status of plants using a machine learning classifier. The dataset contains information about various environmental and biological factors that influence plant health. The goal is to build an accurate predictive model to assist in early detection and classification of plant health issues.
