@@ -14,6 +14,9 @@ The dataset used is synthetically generated or collected from agricultural sourc
 <img src="images/automation-slides.pdf" width="500" alt="Automation Slides"/>
 <em>Visual all of our "Why AI?" slides</em></p>
 
+📄 [View Full Project Slides (PDF)](images/EcoFresh-Presentation.pdf)
+
+
 ---
 
 ## Understanding the Data  
