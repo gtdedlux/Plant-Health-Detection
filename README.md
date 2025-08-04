@@ -6,6 +6,15 @@ This application predicts the health status of plants using a machine learning c
 The dataset used is synthetically generated or collected from agricultural sources containing labeled records of healthy and unhealthy plant instances.
 
 ---
+## Media
+
+<img src="images/outputTree.pdf" width="500" alt="Decision Tree Diagram"/>
+<em>Visual of trained decision tree classifier (interpretable logic)</em></p>
+
+<img src="images/automation-slides.pdf" width="500" alt="Automation Slides"/>
+<em>Visual all of our "Why AI?" slides</em></p>
+
+---
 
 ## Understanding the Data  
 In agriculture, early and accurate identification of plant health conditions is crucial to prevent crop loss and optimize yield. Factors influencing plant health include temperature, humidity, light intensity, soil conditions, and visible symptoms like discoloration or spots. Correctly identifying and leveraging these features can lead to timely interventions, improving agricultural productivity and resource efficiency.
